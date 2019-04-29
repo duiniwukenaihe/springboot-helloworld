@@ -11,9 +11,9 @@
     </parent>
 
     <groupId>club.mydlq</groupId>
-    <artifactId>springboot-helloword</artifactId>
+    <artifactId>springboot-helloworld</artifactId>
     <version>0.0.1</version>
-    <name>springboot-helloword</name>
+    <name>springboot-helloworld</name>
     <description>This a project for Spring Boot , use docker build for helm</description>
 
     <properties>
